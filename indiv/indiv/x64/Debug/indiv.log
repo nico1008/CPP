@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+c:\users\nikia\source\repos\indiv\indiv\myform.h(1272): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nikia\source\repos\indiv\indiv\myform.h(1277): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nikia\source\repos\indiv\indiv\myform.h(1282): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nikia\source\repos\indiv\indiv\myform.h(1309): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nikia\source\repos\indiv\indiv\myform.h(1316): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nikia\source\repos\indiv\indiv\myform.h(1444): warning C4101: 'e': unreferenced local variable
+c:\users\nikia\source\repos\indiv\indiv\myform.h(1590): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  indiv.vcxproj -> C:\Users\nikia\source\repos\indiv\x64\Debug\indiv.exe
